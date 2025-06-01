@@ -6,6 +6,11 @@
     },
     "right-start-web-client": {
       "enabled": false
+    },
+    "bsl-variable-name-invalid": {
+      "properties": {
+        "minNameLength": "2"
+      }
     }
   }
 }
