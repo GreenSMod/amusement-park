@@ -10,13 +10,4 @@
     <value>Статистика посещений</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <mainDataCompositionSchema>Report.СтатистикаПосещений.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
-  <templates uuid="f095b736-cf4c-43d3-bd78-64f4b6aea75e">
-    <name>ОсновнаяСхемаКомпоновкиДанных</name>
-    <synonym>
-      <key>ru</key>
-      <value>Основная схема компоновки данных</value>
-    </synonym>
-    <templateType>DataCompositionSchema</templateType>
-  </templates>
 </mdclass:Report>
